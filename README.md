@@ -15,6 +15,7 @@
 - [Hardware](Hardware)
 - [Setup](Setup)
 - [Code](Code)
+- [Easter Egg](easter-egg)
 
 ### Hardware
 
@@ -43,6 +44,8 @@ Without it temperature readings would get disturbed and not correct.
 <p><img src="Capture.PNG" width="350px"></p>
 
 ### Code
+
+Current thermometer shows temperature in Celsius. Below zero pixels are blue above zero red. Zero pixel is bright green color. Every fifth pixel is little bit brighter than others. After 10 seconds temperatures are updated and leds lights up.
 
 ```
 #include <OneWire.h>
@@ -187,3 +190,8 @@ void loop(void)
   }
 }
 ```
+
+### Easter Egg
+
+There is a easter egg in code.
+After random interval(from 1 - 1000) LED strips will light up random color.
