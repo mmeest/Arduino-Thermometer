@@ -39,4 +39,4 @@ Without it temperature readings would get disturbed and not correct.
 <p><img src="47.jpg" width="220px"></p>
 
 ### Setup
-<p><img src="Capture.PNG" width="220px"></p>
+<p><img src="Capture.PNG" width="350px"></p>
