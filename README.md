@@ -16,8 +16,10 @@
 - [Setup](Setup)
 
 ### Hardware
+
+Arduino UNO
 <p align="center"><img src="0J7808.1200x600.jpg" width="220px"></p>
-Arduino UNO 
+ 
 
 <p><img src="led.jpg" width="220px"></p>
 Adressable WS2812B RGB LED strip with 60 leds per 1 meter.
