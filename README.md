@@ -12,10 +12,10 @@
 <hr>
 
 ### Contents
-- [Hardware](Hardware)
-- [Setup](Setup)
-- [Code](Code)
-- [Easter Egg](easter-egg)
+- [Hardware](#Hardware)
+- [Setup](#Setup)
+- [Code](#Code)
+- [Easter Egg](#easter-egg)
 
 ### Hardware
 
