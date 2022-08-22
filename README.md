@@ -37,7 +37,7 @@ Two 220 Ohm resistors for led strips.
 <p><img src="220.png" width="220px"></p>
 
 One 4.7 kiloOhm resistor for temperature sensors.
-Without it temperature readings would get disturbed and not correct.
+Without it temperature readings would get disturbed.
 <p><img src="47.jpg" width="220px"></p>
 
 ### Setup
