@@ -11,6 +11,8 @@
 
 <hr>
 
+<p align="center"><img src=2023-07-02_14-53-27.gif"></p>
+
 ### Contents
 - [Hardware](#Hardware)
 - [Setup](#Setup)
