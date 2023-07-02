@@ -12,7 +12,7 @@
 <hr>
 
 <p align="center"><img src=0J7808.1200x600.jpg"></p>
-<p align="center"><img src="0J7808.1200x600.jpg" width="220px"></p>
+<p align="center"><img src="2023-07-02_14-53-27.gif" width="220px"></p>
 
 ### Contents
 - [Hardware](#Hardware)
