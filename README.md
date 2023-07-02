@@ -11,7 +11,7 @@
 
 <hr>
 
-<p align="center"><img src=https://github.com/mmeest/Arduino-Thermometer/blob/main/2023-07-02_14-53-27.gif"></p>
+<p align="center"><img src=0J7808.1200x600.jpg"></p>
 
 ### Contents
 - [Hardware](#Hardware)
